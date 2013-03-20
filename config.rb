@@ -47,6 +47,8 @@
 #   end
 # end
 
+set :haml, format: :html5
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
